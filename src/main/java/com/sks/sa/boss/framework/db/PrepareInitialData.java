@@ -69,5 +69,4 @@ public class PrepareInitialData {
 
 		executorService.shutdown();
 	}
-
 }
